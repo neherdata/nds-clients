@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>476188F6-2894-4B3F-A35E-0DE81D99A6FB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>476188F6-2894-4B3F-A35E-0DE81D99A6FB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>nds-clients project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>nds-clients</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews nds-clients</string>
+			<key>timeStartedRecording</key>
+			<real>695834416.06573999</real>
+			<key>timeStoppedRecording</key>
+			<real>695834422.456393</real>
+			<key>title</key>
+			<string>Build for Previews nds-clients</string>
+			<key>uniqueIdentifier</key>
+			<string>476188F6-2894-4B3F-A35E-0DE81D99A6FB</string>
+		</dict>
+		<key>60317350-5DC3-4CE6-A883-9C89CEC4F6FE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>60317350-5DC3-4CE6-A883-9C89CEC4F6FE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>nds-clients project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>nds-clients</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build nds-clients</string>
+			<key>timeStartedRecording</key>
+			<real>695835612.47101498</real>
+			<key>timeStoppedRecording</key>
+			<real>695835619.050228</real>
+			<key>title</key>
+			<string>Build nds-clients</string>
+			<key>uniqueIdentifier</key>
+			<string>60317350-5DC3-4CE6-A883-9C89CEC4F6FE</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
