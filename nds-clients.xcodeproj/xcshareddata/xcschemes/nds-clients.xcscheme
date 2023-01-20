@@ -5,11 +5,20 @@
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
+      <PreActions>
+         <ExecutionAction
+            ActionType = "Xcode.IDEStandardExecutionActionsCore.ExecutionActionType.ShellScriptAction">
+            <ActionContent
+               title = "Run Script"
+               scriptText = "# Type a script or drag a script file from your workspace to insert its path.&#10;">
+            </ActionContent>
+         </ExecutionAction>
+      </PreActions>
       <BuildActionEntries>
          <BuildActionEntry
-            buildForTesting = "NO"
+            buildForTesting = "YES"
             buildForRunning = "YES"
-            buildForProfiling = "NO"
+            buildForProfiling = "YES"
             buildForArchiving = "YES"
             buildForAnalyzing = "YES">
             <BuildableReference
@@ -17,16 +26,18 @@
                BlueprintIdentifier = "97ADC4B92979972B003C8EAB"
                BuildableName = "nds-clients.app"
                BlueprintName = "nds-clients"
-               ReferencedContainer = "container:nds-clients.xcodeproj">
+               ReferencedContainer = "container:NDS Clients.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction
-      buildConfiguration = "Debug"
+      buildConfiguration = "Release"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      shouldUseLaunchSchemeArgsEnv = "YES">
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      region = "US"
+      localizableStringsDataGatheringEnabled = "YES">
       <Testables>
       </Testables>
    </TestAction>
@@ -49,7 +60,7 @@
             BlueprintIdentifier = "97ADC4B92979972B003C8EAB"
             BuildableName = "nds-clients.app"
             BlueprintName = "nds-clients"
-            ReferencedContainer = "container:nds-clients.xcodeproj">
+            ReferencedContainer = "container:NDS Clients.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <LocationScenarioReference
@@ -70,7 +81,7 @@
             BlueprintIdentifier = "97ADC4B92979972B003C8EAB"
             BuildableName = "nds-clients.app"
             BlueprintName = "nds-clients"
-            ReferencedContainer = "container:nds-clients.xcodeproj">
+            ReferencedContainer = "container:NDS Clients.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

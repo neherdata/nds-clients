@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:">
+      location = "self:/Users/tylermneher/Desktop/nds-clients/NDS Clients.xcodeproj">
    </FileRef>
 </Workspace>

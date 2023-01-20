@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		97A58CF7297AE193002BFF8E /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 97ADC4CB2979972D003C8EAB /* Info.plist */; };
 		97ADC4BE2979972B003C8EAB /* nds_clientsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97ADC4BD2979972B003C8EAB /* nds_clientsApp.swift */; };
 		97ADC4C02979972B003C8EAB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97ADC4BF2979972B003C8EAB /* ContentView.swift */; };
 		97ADC4C22979972D003C8EAB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97ADC4C12979972D003C8EAB /* Assets.xcassets */; };
@@ -121,7 +122,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 97ADC4B52979972B003C8EAB /* Build configuration list for PBXProject "nds-clients" */;
+			buildConfigurationList = 97ADC4B52979972B003C8EAB /* Build configuration list for PBXProject "NDS Clients" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -149,6 +150,7 @@
 			files = (
 				97ADC4C52979972D003C8EAB /* Preview Assets.xcassets in Resources */,
 				97ADC4C22979972D003C8EAB /* Assets.xcassets in Resources */,
+				97A58CF7297AE193002BFF8E /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -323,22 +325,29 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 69;
 				DEVELOPMENT_ASSET_PATHS = "\"nds-clients/Preview Content\"";
 				DEVELOPMENT_TEAM = 7QAM3LGSSC;
+				EAGER_LINKING = YES;
+				ENABLE_BITCODE = YES;
 				ENABLE_PREVIEWS = YES;
+				ENABLE_TESTABILITY = YES;
+				FUSE_BUILD_SCRIPT_PHASES = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "nds-clients/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "NDS Clients";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.business";
+				INFOPLIST_KEY_LSSupportsOpeningDocumentsInPlace = YES;
 				INFOPLIST_KEY_NSBluetoothAlwaysUsageDescription = "";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "2023 Neher Data Systems";
 				INFOPLIST_KEY_NSMainStoryboardFile = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIStatusBarStyle = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_WKRunsIndependentlyOfCompanionApp = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -352,6 +361,7 @@
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
+				VALIDATE_PRODUCT = YES;
 			};
 			name = Debug;
 		};
@@ -362,22 +372,29 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 69;
 				DEVELOPMENT_ASSET_PATHS = "\"nds-clients/Preview Content\"";
 				DEVELOPMENT_TEAM = 7QAM3LGSSC;
+				EAGER_LINKING = YES;
+				ENABLE_BITCODE = YES;
 				ENABLE_PREVIEWS = YES;
+				ENABLE_TESTABILITY = YES;
+				FUSE_BUILD_SCRIPT_PHASES = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "nds-clients/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "NDS Clients";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.business";
+				INFOPLIST_KEY_LSSupportsOpeningDocumentsInPlace = YES;
 				INFOPLIST_KEY_NSBluetoothAlwaysUsageDescription = "";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "2023 Neher Data Systems";
 				INFOPLIST_KEY_NSMainStoryboardFile = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIStatusBarStyle = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_WKRunsIndependentlyOfCompanionApp = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -397,7 +414,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		97ADC4B52979972B003C8EAB /* Build configuration list for PBXProject "nds-clients" */ = {
+		97ADC4B52979972B003C8EAB /* Build configuration list for PBXProject "NDS Clients" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				97ADC4CC2979972D003C8EAB /* Debug */,
