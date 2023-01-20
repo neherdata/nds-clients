@@ -88,7 +88,7 @@
                emailRecipient = "tyler@neherdata.com"
                emailSubject = "NDS Clients App BUILD"
                emailBody = "From Neher Data Systems&#10;"
-               attachLogToEmail = "NO">
+               attachLogToEmail = "YES">
             </ActionContent>
          </ExecutionAction>
       </PostActions>
