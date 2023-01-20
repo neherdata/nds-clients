@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		97A58CF7297AE193002BFF8E /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 97ADC4CB2979972D003C8EAB /* Info.plist */; };
 		97ADC4BE2979972B003C8EAB /* nds_clientsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97ADC4BD2979972B003C8EAB /* nds_clientsApp.swift */; };
 		97ADC4C02979972B003C8EAB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97ADC4BF2979972B003C8EAB /* ContentView.swift */; };
 		97ADC4C22979972D003C8EAB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97ADC4C12979972D003C8EAB /* Assets.xcassets */; };
@@ -122,7 +121,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 97ADC4B52979972B003C8EAB /* Build configuration list for PBXProject "NDS Clients" */;
+			buildConfigurationList = 97ADC4B52979972B003C8EAB /* Build configuration list for PBXProject "nds-clients" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -150,7 +149,6 @@
 			files = (
 				97ADC4C52979972D003C8EAB /* Preview Assets.xcassets in Resources */,
 				97ADC4C22979972D003C8EAB /* Assets.xcassets in Resources */,
-				97A58CF7297AE193002BFF8E /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -208,7 +206,9 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
+				EAGER_LINKING = YES;
 				EMBED_ASSET_PACKS_IN_PRODUCT_BUNDLE = YES;
+				ENABLE_BITCODE = YES;
 				ENABLE_ON_DEMAND_RESOURCES = YES;
 				ENABLE_PREVIEWS = YES;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -284,7 +284,9 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				EAGER_LINKING = YES;
 				EMBED_ASSET_PACKS_IN_PRODUCT_BUNDLE = YES;
+				ENABLE_BITCODE = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_ON_DEMAND_RESOURCES = YES;
 				ENABLE_PREVIEWS = YES;
@@ -325,14 +327,15 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 69;
+				CURRENT_PROJECT_VERSION = 70;
 				DEVELOPMENT_ASSET_PATHS = "\"nds-clients/Preview Content\"";
 				DEVELOPMENT_TEAM = 7QAM3LGSSC;
-				EAGER_LINKING = YES;
+				EAGER_LINKING = NO;
 				ENABLE_BITCODE = YES;
 				ENABLE_PREVIEWS = YES;
 				ENABLE_TESTABILITY = YES;
 				FUSE_BUILD_SCRIPT_PHASES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "nds-clients/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "NDS Clients";
@@ -372,14 +375,15 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 69;
+				CURRENT_PROJECT_VERSION = 70;
 				DEVELOPMENT_ASSET_PATHS = "\"nds-clients/Preview Content\"";
 				DEVELOPMENT_TEAM = 7QAM3LGSSC;
-				EAGER_LINKING = YES;
+				EAGER_LINKING = NO;
 				ENABLE_BITCODE = YES;
 				ENABLE_PREVIEWS = YES;
 				ENABLE_TESTABILITY = YES;
 				FUSE_BUILD_SCRIPT_PHASES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "nds-clients/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "NDS Clients";
@@ -414,7 +418,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		97ADC4B52979972B003C8EAB /* Build configuration list for PBXProject "NDS Clients" */ = {
+		97ADC4B52979972B003C8EAB /* Build configuration list for PBXProject "nds-clients" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				97ADC4CC2979972D003C8EAB /* Debug */,

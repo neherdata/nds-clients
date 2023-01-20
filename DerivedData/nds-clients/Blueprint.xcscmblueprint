@@ -10,7 +10,7 @@
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6E7CE975-98FC-4AD6-A9CE-556024FA5414",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
     "A58B9115BB2EB515268B8EE92DC468E39810FD6D" : "nds-clients\/",
-    "5B723A07116A4C2EE3A6A272B14BDF3C7905029A" : "..\/Library\/Developer\/Xcode\/DerivedData\/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf\/SourcePackages\/checkouts\/swift-collections"
+    "5B723A07116A4C2EE3A6A272B14BDF3C7905029A" : "nds-clients\/DerivedData\/nds-clients\/SourcePackages\/checkouts\/swift-collections\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "nds-clients",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,

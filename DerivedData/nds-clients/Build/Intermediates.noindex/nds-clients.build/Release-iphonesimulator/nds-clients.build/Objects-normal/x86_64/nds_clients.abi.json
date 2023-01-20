@@ -1,0 +1,1240 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "CoreData",
+        "printedName": "CoreData",
+        "declKind": "Import",
+        "moduleName": "nds_clients",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "PersistenceController",
+        "printedName": "PersistenceController",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "PersistenceController",
+                "printedName": "nds_clients.PersistenceController",
+                "usr": "s:11nds_clients21PersistenceControllerV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11nds_clients21PersistenceControllerV6sharedACvpZ",
+            "mangledName": "$s11nds_clients21PersistenceControllerV6sharedACvpZ",
+            "moduleName": "nds_clients",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PersistenceController",
+                    "printedName": "nds_clients.PersistenceController",
+                    "usr": "s:11nds_clients21PersistenceControllerV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11nds_clients21PersistenceControllerV6sharedACvgZ",
+                "mangledName": "$s11nds_clients21PersistenceControllerV6sharedACvgZ",
+                "moduleName": "nds_clients",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "preview",
+            "printedName": "preview",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "PersistenceController",
+                "printedName": "nds_clients.PersistenceController",
+                "usr": "s:11nds_clients21PersistenceControllerV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11nds_clients21PersistenceControllerV7previewACvpZ",
+            "mangledName": "$s11nds_clients21PersistenceControllerV7previewACvpZ",
+            "moduleName": "nds_clients",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PersistenceController",
+                    "printedName": "nds_clients.PersistenceController",
+                    "usr": "s:11nds_clients21PersistenceControllerV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11nds_clients21PersistenceControllerV7previewACvgZ",
+                "mangledName": "$s11nds_clients21PersistenceControllerV7previewACvgZ",
+                "moduleName": "nds_clients",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PersistenceController",
+                    "printedName": "nds_clients.PersistenceController",
+                    "usr": "s:11nds_clients21PersistenceControllerV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11nds_clients21PersistenceControllerV7previewACvsZ",
+                "mangledName": "$s11nds_clients21PersistenceControllerV7previewACvsZ",
+                "moduleName": "nds_clients",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11nds_clients21PersistenceControllerV7previewACvMZ",
+                "mangledName": "$s11nds_clients21PersistenceControllerV7previewACvMZ",
+                "moduleName": "nds_clients",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "container",
+            "printedName": "container",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "NSPersistentCloudKitContainer",
+                "printedName": "CoreData.NSPersistentCloudKitContainer",
+                "usr": "c:objc(cs)NSPersistentCloudKitContainer"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11nds_clients21PersistenceControllerV9containerSo29NSPersistentCloudKitContainerCvp",
+            "mangledName": "$s11nds_clients21PersistenceControllerV9containerSo29NSPersistentCloudKitContainerCvp",
+            "moduleName": "nds_clients",
+            "declAttributes": [
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 0,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSPersistentCloudKitContainer",
+                    "printedName": "CoreData.NSPersistentCloudKitContainer",
+                    "usr": "c:objc(cs)NSPersistentCloudKitContainer"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11nds_clients21PersistenceControllerV9containerSo29NSPersistentCloudKitContainerCvg",
+                "mangledName": "$s11nds_clients21PersistenceControllerV9containerSo29NSPersistentCloudKitContainerCvg",
+                "moduleName": "nds_clients",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(inMemory:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "PersistenceController",
+                "printedName": "nds_clients.PersistenceController",
+                "usr": "s:11nds_clients21PersistenceControllerV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:11nds_clients21PersistenceControllerV8inMemoryACSb_tcfc",
+            "mangledName": "$s11nds_clients21PersistenceControllerV8inMemoryACSb_tcfc",
+            "moduleName": "nds_clients",
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:11nds_clients21PersistenceControllerV",
+        "mangledName": "$s11nds_clients21PersistenceControllerV",
+        "moduleName": "nds_clients",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "nds_clients",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreData",
+        "printedName": "CoreData",
+        "declKind": "Import",
+        "moduleName": "nds_clients"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreNFC",
+        "printedName": "CoreNFC",
+        "declKind": "Import",
+        "moduleName": "nds_clients"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ContentView",
+        "printedName": "ContentView",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "_viewContext",
+            "printedName": "_viewContext",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Environment",
+                "printedName": "SwiftUI.Environment<CoreData.NSManagedObjectContext>",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSManagedObjectContext",
+                    "printedName": "CoreData.NSManagedObjectContext",
+                    "usr": "c:objc(cs)NSManagedObjectContext"
+                  }
+                ],
+                "usr": "s:7SwiftUI11EnvironmentV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11nds_clients11ContentViewV12_viewContext33_AF30F1A502B2850835E4F2000267F58ELL7SwiftUI11EnvironmentVySo015NSManagedObjectF0CGvp",
+            "mangledName": "$s11nds_clients11ContentViewV12_viewContext33_AF30F1A502B2850835E4F2000267F58ELL7SwiftUI11EnvironmentVySo015NSManagedObjectF0CGvp",
+            "moduleName": "nds_clients",
+            "implicit": true,
+            "isInternal": true,
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 0,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "_items",
+            "printedName": "_items",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "FetchRequest",
+                "printedName": "SwiftUI.FetchRequest<nds_clients.Item>",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Item",
+                    "printedName": "nds_clients.Item",
+                    "usr": "c:@M@nds_clients@objc(cs)Item"
+                  }
+                ],
+                "usr": "s:7SwiftUI12FetchRequestV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11nds_clients11ContentViewV6_items33_AF30F1A502B2850835E4F2000267F58ELL7SwiftUI12FetchRequestVyAA4ItemCGvp",
+            "mangledName": "$s11nds_clients11ContentViewV6_items33_AF30F1A502B2850835E4F2000267F58ELL7SwiftUI12FetchRequestVyAA4ItemCGvp",
+            "moduleName": "nds_clients",
+            "implicit": true,
+            "isInternal": true,
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 1,
+            "hasStorage": true
+          },
+          {
+            "kind": "Var",
+            "name": "body",
+            "printedName": "body",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "OpaqueTypeArchetype",
+                "printedName": "some SwiftUI.View",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "View",
+                    "printedName": "SwiftUI.View",
+                    "usr": "s:7SwiftUI4ViewP"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11nds_clients11ContentViewV4bodyQrvp",
+            "mangledName": "$s11nds_clients11ContentViewV4bodyQrvp",
+            "moduleName": "nds_clients",
+            "declAttributes": [
+              "Custom"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OpaqueTypeArchetype",
+                    "printedName": "some SwiftUI.View",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "View",
+                        "printedName": "SwiftUI.View",
+                        "usr": "s:7SwiftUI4ViewP"
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11nds_clients11ContentViewV4bodyQrvg",
+                "mangledName": "$s11nds_clients11ContentViewV4bodyQrvg",
+                "moduleName": "nds_clients",
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ContentView",
+                "printedName": "nds_clients.ContentView",
+                "usr": "s:11nds_clients11ContentViewV"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:11nds_clients11ContentViewVACycfc",
+            "mangledName": "$s11nds_clients11ContentViewVACycfc",
+            "moduleName": "nds_clients",
+            "implicit": true,
+            "declAttributes": [
+              "Custom"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:11nds_clients11ContentViewV",
+        "mangledName": "$s11nds_clients11ContentViewV",
+        "moduleName": "nds_clients",
+        "declAttributes": [
+          "Custom"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "View",
+            "printedName": "View",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Body",
+                "printedName": "Body",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OpaqueTypeArchetype",
+                    "printedName": "some SwiftUI.View",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "View",
+                        "printedName": "SwiftUI.View",
+                        "usr": "s:7SwiftUI4ViewP"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "usr": "s:7SwiftUI4ViewP",
+            "mangledName": "$s7SwiftUI4ViewP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ContentView_Previews",
+        "printedName": "ContentView_Previews",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "previews",
+            "printedName": "previews",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "OpaqueTypeArchetype",
+                "printedName": "some SwiftUI.View",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "View",
+                    "printedName": "SwiftUI.View",
+                    "usr": "s:7SwiftUI4ViewP"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11nds_clients20ContentView_PreviewsV8previewsQrvpZ",
+            "mangledName": "$s11nds_clients20ContentView_PreviewsV8previewsQrvpZ",
+            "moduleName": "nds_clients",
+            "static": true,
+            "declAttributes": [
+              "Custom"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OpaqueTypeArchetype",
+                    "printedName": "some SwiftUI.View",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "View",
+                        "printedName": "SwiftUI.View",
+                        "usr": "s:7SwiftUI4ViewP"
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11nds_clients20ContentView_PreviewsV8previewsQrvgZ",
+                "mangledName": "$s11nds_clients20ContentView_PreviewsV8previewsQrvgZ",
+                "moduleName": "nds_clients",
+                "static": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ContentView_Previews",
+                "printedName": "nds_clients.ContentView_Previews",
+                "usr": "s:11nds_clients20ContentView_PreviewsV"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:11nds_clients20ContentView_PreviewsVACycfc",
+            "mangledName": "$s11nds_clients20ContentView_PreviewsVACycfc",
+            "moduleName": "nds_clients",
+            "implicit": true,
+            "declAttributes": [
+              "Custom"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:11nds_clients20ContentView_PreviewsV",
+        "mangledName": "$s11nds_clients20ContentView_PreviewsV",
+        "moduleName": "nds_clients",
+        "declAttributes": [
+          "Custom"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "PreviewProvider",
+            "printedName": "PreviewProvider",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Previews",
+                "printedName": "Previews",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OpaqueTypeArchetype",
+                    "printedName": "some SwiftUI.View",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "View",
+                        "printedName": "SwiftUI.View",
+                        "usr": "s:7SwiftUI4ViewP"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "usr": "s:7SwiftUI15PreviewProviderP",
+            "mangledName": "$s7SwiftUI15PreviewProviderP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_PreviewProvider",
+            "printedName": "_PreviewProvider",
+            "usr": "s:7SwiftUI16_PreviewProviderP",
+            "mangledName": "$s7SwiftUI16_PreviewProviderP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "nds_clients",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "BusinessChat",
+        "printedName": "BusinessChat",
+        "declKind": "Import",
+        "moduleName": "nds_clients"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "nds_clientsApp",
+        "printedName": "nds_clientsApp",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "persistenceController",
+            "printedName": "persistenceController",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "PersistenceController",
+                "printedName": "nds_clients.PersistenceController",
+                "usr": "s:11nds_clients21PersistenceControllerV"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11nds_clients0a1_B3AppV21persistenceControllerAA011PersistenceE0Vvp",
+            "mangledName": "$s11nds_clients0a1_B3AppV21persistenceControllerAA011PersistenceE0Vvp",
+            "moduleName": "nds_clients",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage"
+            ],
+            "fixedbinaryorder": 0,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PersistenceController",
+                    "printedName": "nds_clients.PersistenceController",
+                    "usr": "s:11nds_clients21PersistenceControllerV"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11nds_clients0a1_B3AppV21persistenceControllerAA011PersistenceE0Vvg",
+                "mangledName": "$s11nds_clients0a1_B3AppV21persistenceControllerAA011PersistenceE0Vvg",
+                "moduleName": "nds_clients",
+                "implicit": true,
+                "declAttributes": [
+                  "Transparent"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "body",
+            "printedName": "body",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "OpaqueTypeArchetype",
+                "printedName": "some SwiftUI.Scene",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Scene",
+                    "printedName": "SwiftUI.Scene",
+                    "usr": "s:7SwiftUI5SceneP"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:11nds_clients0a1_B3AppV4bodyQrvp",
+            "mangledName": "$s11nds_clients0a1_B3AppV4bodyQrvp",
+            "moduleName": "nds_clients",
+            "declAttributes": [
+              "Custom"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OpaqueTypeArchetype",
+                    "printedName": "some SwiftUI.Scene",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Scene",
+                        "printedName": "SwiftUI.Scene",
+                        "usr": "s:7SwiftUI5SceneP"
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:11nds_clients0a1_B3AppV4bodyQrvg",
+                "mangledName": "$s11nds_clients0a1_B3AppV4bodyQrvg",
+                "moduleName": "nds_clients",
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "nds_clientsApp",
+                "printedName": "nds_clients.nds_clientsApp",
+                "usr": "s:11nds_clients0a1_B3AppV"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:11nds_clients0a1_B3AppVACycfc",
+            "mangledName": "$s11nds_clients0a1_B3AppVACycfc",
+            "moduleName": "nds_clients",
+            "implicit": true,
+            "declAttributes": [
+              "Custom"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "$main",
+            "printedName": "$main()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11nds_clients0a1_B3AppV5$mainyyFZ",
+            "mangledName": "$s11nds_clients0a1_B3AppV5$mainyyFZ",
+            "moduleName": "nds_clients",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:11nds_clients0a1_B3AppV",
+        "mangledName": "$s11nds_clients0a1_B3AppV",
+        "moduleName": "nds_clients",
+        "declAttributes": [
+          "MainType"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "App",
+            "printedName": "App",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Body",
+                "printedName": "Body",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OpaqueTypeArchetype",
+                    "printedName": "some SwiftUI.Scene",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Scene",
+                        "printedName": "SwiftUI.Scene",
+                        "usr": "s:7SwiftUI5SceneP"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "usr": "s:7SwiftUI3AppP",
+            "mangledName": "$s7SwiftUI3AppP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "nds_clients",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreData",
+        "printedName": "CoreData",
+        "declKind": "Import",
+        "moduleName": "nds_clients"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Item",
+        "printedName": "Item",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(entity:insertInto:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Item",
+                "printedName": "nds_clients.Item",
+                "usr": "c:@M@nds_clients@objc(cs)Item"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSEntityDescription",
+                "printedName": "CoreData.NSEntityDescription",
+                "usr": "c:objc(cs)NSEntityDescription"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "CoreData.NSManagedObjectContext?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSManagedObjectContext",
+                    "printedName": "CoreData.NSManagedObjectContext",
+                    "usr": "c:objc(cs)NSManagedObjectContext"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@nds_clients@objc(cs)Item(im)initWithEntity:insertIntoManagedObjectContext:",
+            "mangledName": "$s11nds_clients4ItemC6entity10insertIntoACSo19NSEntityDescriptionC_So22NSManagedObjectContextCSgtcfc",
+            "moduleName": "nds_clients",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithEntity:insertIntoManagedObjectContext:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "fetchRequest",
+            "printedName": "fetchRequest()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "NSFetchRequest",
+                "printedName": "CoreData.NSFetchRequest<nds_clients.Item>",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Item",
+                    "printedName": "nds_clients.Item",
+                    "usr": "c:@M@nds_clients@objc(cs)Item"
+                  }
+                ],
+                "usr": "c:objc(cs)NSFetchRequest"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11nds_clients4ItemC12fetchRequestSo07NSFetchE0CyACGyFZ",
+            "mangledName": "$s11nds_clients4ItemC12fetchRequestSo07NSFetchE0CyACGyFZ",
+            "moduleName": "nds_clients",
+            "static": true,
+            "isOpen": true,
+            "declAttributes": [
+              "AccessControl",
+              "NonObjC"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "timestamp",
+            "printedName": "timestamp",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Date?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Date",
+                    "printedName": "Foundation.Date",
+                    "usr": "s:10Foundation4DateV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "c:@CM@nds_clients@objc(cs)Item(py)timestamp",
+            "mangledName": "$s11nds_clients4ItemC9timestamp10Foundation4DateVSgvp",
+            "moduleName": "nds_clients",
+            "isOpen": true,
+            "declAttributes": [
+              "Dynamic",
+              "AccessControl",
+              "NSManaged",
+              "ObjC"
+            ],
+            "isFromExtension": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Foundation.Date?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Date",
+                        "printedName": "Foundation.Date",
+                        "usr": "s:10Foundation4DateV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@CM@nds_clients@objc(cs)Item(im)timestamp",
+                "mangledName": "$s11nds_clients4ItemC9timestamp10Foundation4DateVSgvg",
+                "moduleName": "nds_clients",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Foundation.Date?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Date",
+                        "printedName": "Foundation.Date",
+                        "usr": "s:10Foundation4DateV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "c:@CM@nds_clients@objc(cs)Item(im)setTimestamp:",
+                "mangledName": "$s11nds_clients4ItemC9timestamp10Foundation4DateVSgvs",
+                "moduleName": "nds_clients",
+                "implicit": true,
+                "isOpen": true,
+                "declAttributes": [
+                  "Dynamic",
+                  "ObjC"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "set"
+              }
+            ]
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@nds_clients@objc(cs)Item",
+        "mangledName": "$s11nds_clients4ItemC",
+        "moduleName": "nds_clients",
+        "isOpen": true,
+        "objc_name": "Item",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSManagedObject",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "CoreData.NSManagedObject",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Identifiable",
+            "printedName": "Identifiable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ID",
+                "printedName": "ID",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ObjectIdentifier",
+                    "printedName": "Swift.ObjectIdentifier",
+                    "usr": "s:SO"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s12IdentifiableP",
+            "mangledName": "$ss12IdentifiableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ObservableObject",
+            "printedName": "ObservableObject",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ObjectWillChangePublisher",
+                "printedName": "ObjectWillChangePublisher",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ObservableObjectPublisher",
+                    "printedName": "Combine.ObservableObjectPublisher",
+                    "usr": "s:7Combine25ObservableObjectPublisherC"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:7Combine16ObservableObjectP",
+            "mangledName": "$s7Combine16ObservableObjectP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "nds_clients",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreData",
+        "printedName": "CoreData",
+        "declKind": "Import",
+        "moduleName": "nds_clients"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "nds_clients",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreData",
+        "printedName": "CoreData",
+        "declKind": "Import",
+        "moduleName": "nds_clients"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/tylermneher\/Desktop\/nds-clients\/nds-clients\/Persistence.swift",
+      "kind": "BooleanLiteral",
+      "offset": 290,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/tylermneher\/Desktop\/nds-clients\/nds-clients\/Persistence.swift",
+      "kind": "IntegerLiteral",
+      "offset": 368,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/tylermneher\/Desktop\/nds-clients\/nds-clients\/Persistence.swift",
+      "kind": "IntegerLiteral",
+      "offset": 372,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/tylermneher\/Desktop\/nds-clients\/nds-clients\/Persistence.swift",
+      "kind": "StringLiteral",
+      "offset": 895,
+      "length": 50,
+      "value": "\"Unresolved error \""
+    },
+    {
+      "filePath": "\/Users\/tylermneher\/Desktop\/nds-clients\/nds-clients\/Persistence.swift",
+      "kind": "StringLiteral",
+      "offset": 923,
+      "length": 1,
+      "value": "\", \""
+    },
+    {
+      "filePath": "\/Users\/tylermneher\/Desktop\/nds-clients\/nds-clients\/Persistence.swift",
+      "kind": "StringLiteral",
+      "offset": 944,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/tylermneher\/Desktop\/nds-clients\/nds-clients\/Persistence.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1064,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/tylermneher\/Desktop\/nds-clients\/nds-clients\/ContentView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 329,
+      "length": 4,
+      "value": "true"
+    }
+  ]
+}

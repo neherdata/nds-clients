@@ -1,0 +1,105 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "792e7e36c121c334d15c6bbade78ff118087a1f990171634de45110bd253c658"
+build_start_time: [1674145370, 87778091]
+build_end_time: [1674145370, 471560955]
+inputs:
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+Bucket.swift"
+  : [1674145353, 711295127]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+BucketIterator.swift"
+  : [1674145353, 711460590]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+Constants.swift"
+  : [1674145353, 711597442]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+CustomStringConvertible.swift"
+  : [1674145353, 711751222]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+Testing.swift"
+  : [1674145353, 711870193]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+UnsafeHandle.swift"
+  : [1674145353, 712062358]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable.swift"
+  : [1674145353, 712230205]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_Hashtable+Header.swift"
+  : [1674145353, 712380886]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Codable.swift"
+  : [1674145353, 713527917]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+CustomDebugStringConvertible.swift"
+  : [1674145353, 713655233]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+CustomReflectable.swift"
+  : [1674145353, 713772296]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+CustomStringConvertible.swift"
+  : [1674145353, 713890790]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Deprecations.swift"
+  : [1674145353, 714323997]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Elements+SubSequence.swift"
+  : [1674145353, 714961290]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Elements.swift"
+  : [1674145353, 715250968]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Equatable.swift"
+  : [1674145353, 715679168]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+ExpressibleByDictionaryLiteral.swift"
+  : [1674145353, 715842962]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Hashable.swift"
+  : [1674145353, 715978622]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Initializers.swift"
+  : [1674145353, 716164827]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Invariants.swift"
+  : [1674145353, 716331481]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Partial MutableCollection.swift"
+  : [1674145353, 716497898]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Partial RangeReplaceableCollection.swift"
+  : [1674145353, 716656208]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Sequence.swift"
+  : [1674145353, 716796875]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Values.swift"
+  : [1674145353, 716962814]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary.swift"
+  : [1674145353, 717884302]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Codable.swift"
+  : [1674145353, 718134880]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+CustomDebugStringConvertible.swift"
+  : [1674145353, 718334436]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+CustomReflectable.swift"
+  : [1674145353, 718523740]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+CustomStringConvertible.swift"
+  : [1674145353, 718656539]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Diffing.swift"
+  : [1674145353, 718821525]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Equatable.swift"
+  : [1674145353, 718949079]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+ExpressibleByArrayLiteral.swift"
+  : [1674145353, 719085931]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Hashable.swift"
+  : [1674145353, 719213962]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Initializers.swift"
+  : [1674145353, 719670772]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Insertions.swift"
+  : [1674145353, 719863891]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Invariants.swift"
+  : [1674145353, 720008134]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial MutableCollection.swift"
+  : [1674145353, 720649242]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial RangeReplaceableCollection.swift"
+  : [1674145353, 720876693]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra+Basics.swift"
+  : [1674145353, 721109151]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra+Operations.swift"
+  : [1674145353, 721686363]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra+Predicates.swift"
+  : [1674145353, 722505092]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+RandomAccessCollection.swift"
+  : [1674145353, 722734689]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+ReserveCapacity.swift"
+  : [1674145353, 722880363]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+SubSequence.swift"
+  : [1674145353, 723062992]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Testing.swift"
+  : [1674145353, 723211288]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+UnorderedView.swift"
+  : [1674145353, 723487854]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+UnstableInternals.swift"
+  : [1674145353, 723656654]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet.swift"
+  : [1674145353, 723933696]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/Utilities/RandomAccessCollection+Offsets.swift"
+  : [1674145353, 724199295]
+  ? "/Users/tylermneher/Library/Developer/Xcode/DerivedData/nds-clients-bbkeboatcpwqyncqkfaoabrucmsf/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/Utilities/_UnsafeBitset.swift"
+  : [1674145353, 724764108]

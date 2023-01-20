@@ -1,0 +1,43 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "ac27cbad164524b3836190b10fe2ea3e6f60a6d4f6fba5a1534486ea53ef79fa"
+build_start_time: [1674231313, 873852014]
+build_end_time: [1674231313, 958331108]
+inputs:
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/DequeModule/Compatibility.swift"
+  : !dirty [1674226114, 943059206]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/DequeModule/Deque+Codable.swift"
+  : !dirty [1674226114, 943381309]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/DequeModule/Deque+Collection.swift"
+  : !dirty [1674226114, 943880319]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/DequeModule/Deque+CustomDebugStringConvertible.swift"
+  : !dirty [1674226114, 944537639]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/DequeModule/Deque+CustomReflectable.swift"
+  : !dirty [1674226114, 944789409]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/DequeModule/Deque+CustomStringConvertible.swift"
+  : !dirty [1674226114, 945018768]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/DequeModule/Deque+Equatable.swift"
+  : !dirty [1674226114, 945285081]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/DequeModule/Deque+ExpressibleByArrayLiteral.swift"
+  : !dirty [1674226114, 945566654]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/DequeModule/Deque+Extras.swift"
+  : !dirty [1674226114, 945829629]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/DequeModule/Deque+Hashable.swift"
+  : !dirty [1674226114, 946109533]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/DequeModule/Deque+Testing.swift"
+  : !dirty [1674226114, 946362733]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/DequeModule/Deque._Storage.swift"
+  : !dirty [1674226114, 946638107]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/DequeModule/Deque._UnsafeHandle.swift"
+  : !dirty [1674226114, 947330951]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/DequeModule/Deque.swift"
+  : !dirty [1674226114, 947692394]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/DequeModule/UnsafeMutableBufferPointer+Utilities.swift"
+  : !dirty [1674226114, 948920726]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/DequeModule/_DequeBuffer.swift"
+  : !dirty [1674226114, 949081420]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/DequeModule/_DequeBufferHeader.swift"
+  : !dirty [1674226114, 949283123]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/DequeModule/_DequeSlot.swift"
+  : !dirty [1674226114, 949526548]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/DequeModule/_UnsafeWrappedBuffer.swift"
+  : !dirty [1674226114, 949766874]

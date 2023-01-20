@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "2179151fe62cbb72756fa5f3686366b782d258efcadaaf1aa4c45ea4b7178f59"
+build_start_time: [1674231318, 909690856]
+build_end_time: [1674231319, 359211921]
+inputs:
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/Collections/Collections.swift"
+  : [1674226114, 942283153]

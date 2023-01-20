@@ -4,9 +4,11 @@
 <array>
 	<string>PackageDescription</string>
 	<string>SwiftUI</string>
-	<string>DequeModule</string>
-	<string>CoreData</string>
-	<string>OrderedCollections</string>
 	<string>XCTest</string>
+	<string>CoreData</string>
+	<string>BusinessChat</string>
+	<string>DequeModule</string>
+	<string>OrderedCollections</string>
+	<string>CoreNFC</string>
 </array>
 </plist>

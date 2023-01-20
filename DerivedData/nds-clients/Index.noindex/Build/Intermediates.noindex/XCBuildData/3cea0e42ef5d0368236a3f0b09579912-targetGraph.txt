@@ -1,0 +1,35 @@
+Target dependency graph (14 targets)
+DequeModule in swift-collections, no dependencies
+OrderedCollections in swift-collections, no dependencies
+Collections in swift-collections, depends on:
+DequeModule in swift-collections (explicit)
+OrderedCollections in swift-collections (explicit)
+Collections in swift-collections, depends on:
+Collections in swift-collections (explicit)
+DequeModule in swift-collections (explicit)
+OrderedCollections in swift-collections (explicit)
+DequeModule in swift-collections, depends on:
+DequeModule in swift-collections (explicit)
+OrderedCollections in swift-collections, depends on:
+OrderedCollections in swift-collections (explicit)
+nds-clients in NDS Clients, depends on:
+Collections in swift-collections (explicit)
+DequeModule in swift-collections (explicit)
+OrderedCollections in swift-collections (explicit)
+DequeModule in swift-collections, no dependencies
+OrderedCollections in swift-collections, no dependencies
+Collections in swift-collections, depends on:
+DequeModule in swift-collections (explicit)
+OrderedCollections in swift-collections (explicit)
+Collections in swift-collections, depends on:
+Collections in swift-collections (explicit)
+DequeModule in swift-collections (explicit)
+OrderedCollections in swift-collections (explicit)
+DequeModule in swift-collections, depends on:
+DequeModule in swift-collections (explicit)
+OrderedCollections in swift-collections, depends on:
+OrderedCollections in swift-collections (explicit)
+nds-clients in NDS Clients, depends on:
+Collections in swift-collections (explicit)
+DequeModule in swift-collections (explicit)
+OrderedCollections in swift-collections (explicit)

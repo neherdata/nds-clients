@@ -26,7 +26,7 @@
                BlueprintIdentifier = "97ADC4B92979972B003C8EAB"
                BuildableName = "nds-clients.app"
                BlueprintName = "nds-clients"
-               ReferencedContainer = "container:NDS Clients.xcodeproj">
+               ReferencedContainer = "container:nds-clients.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -60,7 +60,7 @@
             BlueprintIdentifier = "97ADC4B92979972B003C8EAB"
             BuildableName = "nds-clients.app"
             BlueprintName = "nds-clients"
-            ReferencedContainer = "container:NDS Clients.xcodeproj">
+            ReferencedContainer = "container:nds-clients.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <LocationScenarioReference
@@ -81,7 +81,7 @@
             BlueprintIdentifier = "97ADC4B92979972B003C8EAB"
             BuildableName = "nds-clients.app"
             BlueprintName = "nds-clients"
-            ReferencedContainer = "container:NDS Clients.xcodeproj">
+            ReferencedContainer = "container:nds-clients.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

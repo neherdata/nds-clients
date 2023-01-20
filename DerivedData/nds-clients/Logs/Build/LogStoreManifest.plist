@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>476188F6-2894-4B3F-A35E-0DE81D99A6FB</key>
+		<key>06251058-2760-4A9F-BDE6-9A5451E28758</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,41 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>476188F6-2894-4B3F-A35E-0DE81D99A6FB.xcactivitylog</string>
+			<string>06251058-2760-4A9F-BDE6-9A5451E28758.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>nds-clients project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>nds-clients</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build nds-clients</string>
+			<key>timeStartedRecording</key>
+			<real>695924486.98289704</real>
+			<key>timeStoppedRecording</key>
+			<real>695924489.33216596</real>
+			<key>title</key>
+			<string>Build nds-clients</string>
+			<key>uniqueIdentifier</key>
+			<string>06251058-2760-4A9F-BDE6-9A5451E28758</string>
+		</dict>
+		<key>0D7DE365-9F88-4E3B-ACD2-63D58E136B1B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0D7DE365-9F88-4E3B-ACD2-63D58E136B1B.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -30,15 +64,83 @@
 			<key>schemeIdentifier-sharedScheme</key>
 			<integer>1</integer>
 			<key>signature</key>
-			<string>Build for Previews nds-clients</string>
+			<string>Build nds-clients</string>
 			<key>timeStartedRecording</key>
-			<real>695834416.06573999</real>
+			<real>695924605.660537</real>
 			<key>timeStoppedRecording</key>
-			<real>695834422.456393</real>
+			<real>695924607.39193499</real>
 			<key>title</key>
-			<string>Build for Previews nds-clients</string>
+			<string>Build nds-clients</string>
 			<key>uniqueIdentifier</key>
-			<string>476188F6-2894-4B3F-A35E-0DE81D99A6FB</string>
+			<string>0D7DE365-9F88-4E3B-ACD2-63D58E136B1B</string>
+		</dict>
+		<key>1B04139C-356D-4241-8EDA-9D09EB67D535</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1B04139C-356D-4241-8EDA-9D09EB67D535.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>nds-clients project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>nds-clients</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build nds-clients</string>
+			<key>timeStartedRecording</key>
+			<real>695924658.40101099</real>
+			<key>timeStoppedRecording</key>
+			<real>695924658.83930802</real>
+			<key>title</key>
+			<string>Build nds-clients</string>
+			<key>uniqueIdentifier</key>
+			<string>1B04139C-356D-4241-8EDA-9D09EB67D535</string>
+		</dict>
+		<key>1CC22F8D-F5E8-4E59-9FFD-90913492EBC0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1CC22F8D-F5E8-4E59-9FFD-90913492EBC0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>nds-clients project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>nds-clients</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build nds-clients</string>
+			<key>timeStartedRecording</key>
+			<real>695927279.09698296</real>
+			<key>timeStoppedRecording</key>
+			<real>695927281.60994506</real>
+			<key>title</key>
+			<string>Build nds-clients</string>
+			<key>uniqueIdentifier</key>
+			<string>1CC22F8D-F5E8-4E59-9FFD-90913492EBC0</string>
 		</dict>
 		<key>60317350-5DC3-4CE6-A883-9C89CEC4F6FE</key>
 		<dict>
@@ -73,6 +175,312 @@
 			<string>Build nds-clients</string>
 			<key>uniqueIdentifier</key>
 			<string>60317350-5DC3-4CE6-A883-9C89CEC4F6FE</string>
+		</dict>
+		<key>63BDEB9E-959C-4D53-9172-8AFC8039316E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>63BDEB9E-959C-4D53-9172-8AFC8039316E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>nds-clients project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>nds-clients</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build nds-clients</string>
+			<key>timeStartedRecording</key>
+			<real>695924559.25811601</real>
+			<key>timeStoppedRecording</key>
+			<real>695924559.37747002</real>
+			<key>title</key>
+			<string>Build nds-clients</string>
+			<key>uniqueIdentifier</key>
+			<string>63BDEB9E-959C-4D53-9172-8AFC8039316E</string>
+		</dict>
+		<key>9636FD93-B3A4-4B4F-ABB4-F968E9033DEC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9636FD93-B3A4-4B4F-ABB4-F968E9033DEC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>nds-clients project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>nds-clients</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build nds-clients</string>
+			<key>timeStartedRecording</key>
+			<real>695924509.44013202</real>
+			<key>timeStoppedRecording</key>
+			<real>695924509.57068706</real>
+			<key>title</key>
+			<string>Build nds-clients</string>
+			<key>uniqueIdentifier</key>
+			<string>9636FD93-B3A4-4B4F-ABB4-F968E9033DEC</string>
+		</dict>
+		<key>A15117B0-9D69-4737-917C-C744713A954B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A15117B0-9D69-4737-917C-C744713A954B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>nds-clients project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>nds-clients</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build nds-clients</string>
+			<key>timeStartedRecording</key>
+			<real>695924547.24138904</real>
+			<key>timeStoppedRecording</key>
+			<real>695924549.624928</real>
+			<key>title</key>
+			<string>Build nds-clients</string>
+			<key>uniqueIdentifier</key>
+			<string>A15117B0-9D69-4737-917C-C744713A954B</string>
+		</dict>
+		<key>C15560DC-3960-41FD-AB62-DC7C5987E840</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C15560DC-3960-41FD-AB62-DC7C5987E840.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>nds-clients project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>nds-clients</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build nds-clients</string>
+			<key>timeStartedRecording</key>
+			<real>695925767.04861403</real>
+			<key>timeStoppedRecording</key>
+			<real>695925768.36084294</real>
+			<key>title</key>
+			<string>Build nds-clients</string>
+			<key>uniqueIdentifier</key>
+			<string>C15560DC-3960-41FD-AB62-DC7C5987E840</string>
+		</dict>
+		<key>E231AC0B-BE2A-40F3-989A-1F77AE650D05</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E231AC0B-BE2A-40F3-989A-1F77AE650D05.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>nds-clients project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>nds-clients</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build nds-clients</string>
+			<key>timeStartedRecording</key>
+			<real>695924951.12443399</real>
+			<key>timeStoppedRecording</key>
+			<real>695924952.51768994</real>
+			<key>title</key>
+			<string>Build nds-clients</string>
+			<key>uniqueIdentifier</key>
+			<string>E231AC0B-BE2A-40F3-989A-1F77AE650D05</string>
+		</dict>
+		<key>E694B03C-98ED-4D1C-B3FA-47C6011E22FE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E694B03C-98ED-4D1C-B3FA-47C6011E22FE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>nds-clients project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>nds-clients</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build nds-clients</string>
+			<key>timeStartedRecording</key>
+			<real>695924929.22811997</real>
+			<key>timeStoppedRecording</key>
+			<real>695924929.892259</real>
+			<key>title</key>
+			<string>Build nds-clients</string>
+			<key>uniqueIdentifier</key>
+			<string>E694B03C-98ED-4D1C-B3FA-47C6011E22FE</string>
+		</dict>
+		<key>E6D84C4E-E72B-45A1-A8BB-13ED1A11FE89</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E6D84C4E-E72B-45A1-A8BB-13ED1A11FE89.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>nds-clients project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>nds-clients</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build nds-clients</string>
+			<key>timeStartedRecording</key>
+			<real>695925884.28524899</real>
+			<key>timeStoppedRecording</key>
+			<real>695925884.89478004</real>
+			<key>title</key>
+			<string>Build nds-clients</string>
+			<key>uniqueIdentifier</key>
+			<string>E6D84C4E-E72B-45A1-A8BB-13ED1A11FE89</string>
+		</dict>
+		<key>F8DCE010-ADAC-4278-9E4A-95E8817967FF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F8DCE010-ADAC-4278-9E4A-95E8817967FF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>nds-clients project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>nds-clients</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build nds-clients</string>
+			<key>timeStartedRecording</key>
+			<real>695924815.20393097</real>
+			<key>timeStoppedRecording</key>
+			<real>695924817.73518002</real>
+			<key>title</key>
+			<string>Build nds-clients</string>
+			<key>uniqueIdentifier</key>
+			<string>F8DCE010-ADAC-4278-9E4A-95E8817967FF</string>
+		</dict>
+		<key>FE4C8000-78C7-4410-B34F-8063C0A4345C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FE4C8000-78C7-4410-B34F-8063C0A4345C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>nds-clients project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>nds-clients</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build nds-clients</string>
+			<key>timeStartedRecording</key>
+			<real>695924111.60497403</real>
+			<key>timeStoppedRecording</key>
+			<real>695924126.22477198</real>
+			<key>title</key>
+			<string>Build nds-clients</string>
+			<key>uniqueIdentifier</key>
+			<string>FE4C8000-78C7-4410-B34F-8063C0A4345C</string>
 		</dict>
 	</dict>
 </dict>
