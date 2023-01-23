@@ -1,0 +1,105 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "f0fd963a5494589c6e3e00c29b293267b481383b11a5486fc3e2d0f02b6e451c"
+build_start_time: [1674231313, 873855113]
+build_end_time: [1674231314, 86119174]
+inputs:
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+Bucket.swift"
+  : !dirty [1674226114, 950407505]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+BucketIterator.swift"
+  : !dirty [1674226114, 950640201]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+Constants.swift"
+  : !dirty [1674226114, 950845241]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+CustomStringConvertible.swift"
+  : !dirty [1674226114, 951092243]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+Testing.swift"
+  : !dirty [1674226114, 951308727]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable+UnsafeHandle.swift"
+  : !dirty [1674226114, 951601028]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_HashTable.swift"
+  : !dirty [1674226114, 951822757]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/HashTable/_Hashtable+Header.swift"
+  : !dirty [1674226114, 952091455]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Codable.swift"
+  : !dirty [1674226114, 953801155]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+CustomDebugStringConvertible.swift"
+  : !dirty [1674226114, 954002141]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+CustomReflectable.swift"
+  : !dirty [1674226114, 954169273]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+CustomStringConvertible.swift"
+  : !dirty [1674226114, 954337596]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Deprecations.swift"
+  : !dirty [1674226114, 954882621]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Elements+SubSequence.swift"
+  : !dirty [1674226114, 955383777]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Elements.swift"
+  : !dirty [1674226114, 955748558]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Equatable.swift"
+  : !dirty [1674226114, 956332683]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+ExpressibleByDictionaryLiteral.swift"
+  : !dirty [1674226114, 956534385]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Hashable.swift"
+  : !dirty [1674226114, 956706285]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Initializers.swift"
+  : !dirty [1674226114, 956954002]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Invariants.swift"
+  : !dirty [1674226114, 957305669]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Partial MutableCollection.swift"
+  : !dirty [1674226114, 957544803]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Partial RangeReplaceableCollection.swift"
+  : !dirty [1674226114, 957762241]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Sequence.swift"
+  : !dirty [1674226114, 957937240]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary+Values.swift"
+  : !dirty [1674226114, 958147525]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedDictionary/OrderedDictionary.swift"
+  : !dirty [1674226114, 959226131]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Codable.swift"
+  : !dirty [1674226114, 959602117]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+CustomDebugStringConvertible.swift"
+  : !dirty [1674226114, 959754467]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+CustomReflectable.swift"
+  : !dirty [1674226114, 959962606]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+CustomStringConvertible.swift"
+  : !dirty [1674226114, 960221767]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Diffing.swift"
+  : !dirty [1674226114, 960396051]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Equatable.swift"
+  : !dirty [1674226114, 960552692]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+ExpressibleByArrayLiteral.swift"
+  : !dirty [1674226114, 960729598]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Hashable.swift"
+  : !dirty [1674226114, 960912704]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Initializers.swift"
+  : !dirty [1674226114, 961436748]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Insertions.swift"
+  : !dirty [1674226114, 961676836]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Invariants.swift"
+  : !dirty [1674226114, 961905479]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial MutableCollection.swift"
+  : !dirty [1674226114, 962538242]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial RangeReplaceableCollection.swift"
+  : !dirty [1674226114, 962767839]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra+Basics.swift"
+  : !dirty [1674226114, 963057756]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra+Operations.swift"
+  : !dirty [1674226114, 963759899]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Partial SetAlgebra+Predicates.swift"
+  : !dirty [1674226114, 964566707]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+RandomAccessCollection.swift"
+  : !dirty [1674226114, 964905738]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+ReserveCapacity.swift"
+  : !dirty [1674226114, 965103864]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+SubSequence.swift"
+  : !dirty [1674226114, 965423583]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+Testing.swift"
+  : !dirty [1674226114, 965626716]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+UnorderedView.swift"
+  : !dirty [1674226114, 965984344]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet+UnstableInternals.swift"
+  : !dirty [1674226114, 966219902]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/OrderedSet/OrderedSet.swift"
+  : !dirty [1674226114, 966619968]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/Utilities/RandomAccessCollection+Offsets.swift"
+  : !dirty [1674226114, 967028141]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/SourcePackages/checkouts/swift-collections/Sources/OrderedCollections/Utilities/_UnsafeBitset.swift"
+  : !dirty [1674226114, 967298746]

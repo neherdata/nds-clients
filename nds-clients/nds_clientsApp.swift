@@ -6,15 +6,15 @@
 //
 
 import SwiftUI
+import BusinessChat
 
 @main
 struct nds_clientsApp: App {
     let persistenceController = PersistenceController.shared
-
     var body: some Scene {
-        WindowGroup {
-            ContentView()
-                .environment(\.managedObjectContext, persistenceController.container.viewContext)
+            WindowGroup {
+                ContentView()
+                    .environment(\.managedObjectContext, persistenceController.container.viewContext)
+            }
         }
-    }
-}
+            }

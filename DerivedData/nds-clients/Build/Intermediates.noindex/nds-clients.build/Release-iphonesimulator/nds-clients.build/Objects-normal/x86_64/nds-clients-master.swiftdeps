@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "cebccc9e7a2f2f6b067f7b4afe2e1c152e3a31b53d1f59f1a0a655e530f520f1"
+build_start_time: [1674234479, 296551942]
+build_end_time: [1674234481, 606123924]
+inputs:
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/Build/Intermediates.noindex/nds-clients.build/Release-iphonesimulator/nds-clients.build/DerivedSources/CoreDataGenerated/nds_clients/Item+CoreDataClass.swift"
+  : [1674231319, 783756256]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/Build/Intermediates.noindex/nds-clients.build/Release-iphonesimulator/nds-clients.build/DerivedSources/CoreDataGenerated/nds_clients/Item+CoreDataProperties.swift"
+  : [1674231319, 785024642]
+  ? "/Users/tylermneher/Desktop/nds-clients/DerivedData/nds-clients/Build/Intermediates.noindex/nds-clients.build/Release-iphonesimulator/nds-clients.build/DerivedSources/CoreDataGenerated/nds_clients/nds_clients+CoreDataModel.swift"
+  : [1674231319, 781073808]
+  "/Users/tylermneher/Desktop/nds-clients/nds-clients/ContentView.swift": [1674233518, 407392501]
+  "/Users/tylermneher/Desktop/nds-clients/nds-clients/Persistence.swift": [1674141613, 369138002]
+  "/Users/tylermneher/Desktop/nds-clients/nds-clients/nds_clientsApp.swift": [1674234476, 642475366]

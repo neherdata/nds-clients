@@ -1,0 +1,24 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)
+// swift-module-flags: -target x86_64-apple-ios16.1-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -module-name nds_clients
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import CoreData
+import Foundation
+import Swift
+import SwiftUI
+import _Concurrency
+import _StringProcessing
+@_inheritsConvenienceInitializers @objc(Item) public class Item : CoreData.NSManagedObject {
+  @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
+  @objc deinit
+}
+extension nds_clients.Item {
+  @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<nds_clients.Item>
+  @objc @NSManaged dynamic public var timestamp: Foundation.Date? {
+    @objc get
+    @objc set
+  }
+}
+extension nds_clients.Item : Swift.Identifiable {
+  public typealias ID = Swift.ObjectIdentifier
+}
